@@ -1,5 +1,10 @@
 DataCo Supply Chain: Delivery Performance Analysis
-
+ 
+ Business Problem
+The company runs a global e-commerce platform selling sporting goods, fitness
+equipment, outdoor gear, footwear and apparel across several regions. Actual shipping
+times often differ from the delivery window promised at checkout. This erodes customer
+trust, reduces order profitability, and makes it hard to commit to reliable delivery dates.
 Where, when and why are orders delivered late, and what does it cost?
 An end-to-end analysis of ~181K e-commerce orders (2015–2018) using Python and Power BI.
 
