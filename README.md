@@ -7,8 +7,7 @@ times often differ from the delivery window promised at checkout. This erodes cu
 trust, reduces order profitability, and makes it hard to commit to reliable delivery dates.
 Where, when and why are orders delivered late, and what does it cost?
 An end-to-end analysis of ~181K e-commerce orders (2015–2018) using Python and Power BI.
-
-![Overview](dashboard/screenshots/1_overview.png)
+ 
 
 Headline findings
 1. 55% of orders arrive late, and the rate is stable across years (54.4%–56.3%).
