@@ -52,4 +52,4 @@ Run it yourself
 Python (pandas, numpy, matplotlib, seaborn) · Power BI / DAX
 
 ## Author
-Karthik · [LinkedIn] · [Email]
+Karthik 
